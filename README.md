@@ -16,7 +16,7 @@ Welcome to PyCommerce, your new favorite open-source Python package for managing
 Clone the repository and install the requirements:
 
 ```bash
-git clone https://github.com/PyCommerce/PyCommerce.git
+git clone [https://github.com/PyCommerce/](https://github.com/TheSnowGuru/PyCommrce/PyCommerce.git)
 cd PyCommerce
 pip install -r requirements.txt
 ```
