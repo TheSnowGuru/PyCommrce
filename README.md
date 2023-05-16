@@ -45,11 +45,6 @@ PyCommerce is open-source and we love receiving pull requests! If you have an id
 
 Please read our [CONTRIBUTING.md](CONTRIBUTING.md) to get started.
 
-## Jokes 🎭
-
-Why don't programmers like nature? It has too many bugs.
-
-Why do programmers always mix up Christmas and Halloween? Because Oct 31 == Dec 25.
 
 ## License 📄
 
